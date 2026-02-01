@@ -1,0 +1,6 @@
+notion-client
+python-dotenv
+requests
+typing-extensions
+playwright
+# Email dependencies are built-in Python modules (smtplib, email)
